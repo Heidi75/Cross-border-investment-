@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+          import React, { useState } from 'react';
 import { AlertCircle, CheckCircle, XCircle, Download, ChevronRight, FileText } from 'lucide-react';
 
 const ComplianceDemo = () => {
@@ -466,4 +466,5 @@ This investment appears suitable given their risk profile and existing UCITS fun
   );
 };
 
-export default ComplianceDemo;
+export default ComplianceDemo;                            ))}
+                            
