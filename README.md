@@ -1,0 +1,3 @@
+
+“In Chase’s current LLM pilots, AI can draft product rationales but cannot guarantee that complex cross‑border and suitability rules are correctly applied. In our demo, the same client scenario is run through an LLM‑only flow and then through HPLM. The LLM‑only flow produces a convincing but non‑verifiable recommendation. The HPLM flow converts the client narrative into typed facts, fires explicit policy rules, and uses a Deontic Veto Gate to block unsafe recommendations before they ever reach production. Every decision comes with a machine‑readable audit trail for model‑risk and regulators.”  
+
